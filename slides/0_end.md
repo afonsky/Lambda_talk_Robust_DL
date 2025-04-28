@@ -11,6 +11,8 @@ zoom: 1.1
 
 * The two robust models for two specific problems found using this method have the best convergence and the smallest loss variability among the $2\times6912$ models considered
 	* Finding a robust model from a set of $6912$ models with different architectures and hyperparameters requires training $41567$ models and their instances, instead of training $345600$ models and their instances while considering an exhaustive search for the most robust model from the set
+ * The models we found are more robust than the models selected by NAS from a similar search space
+ * 
 ---
 layout: end
 hideInToc: true
