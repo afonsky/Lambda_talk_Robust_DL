@@ -6,7 +6,7 @@ import { vue3dLoader } from "vue-3d-loader"
 <template>
 <vue3dLoader
   :height="440"
-  :filePath="['/calo_shower_back_only.glb']"
+  :filePath="['/public/calo_shower_back_only.glb']"
   :backgroundColor="0xffffff"
 ></vue3dLoader>
 </template>
