@@ -69,4 +69,18 @@ zoom: 0.95
 </div>
 </div>
 
-* The performance of selected model (batch size 32, learning rate 0.01 and weight decay 0.01)<br> is far from our expectations 🥺
+---
+
+# Energy Model vs Training Sample Size
+
+<center>
+<figure>
+    <img src="/Energy_A_132_32k_bins_sum_nosum.svg" style="width: 405px !important;">
+</figure>
+</center>
+
+<center>
+<figure>
+    <img src="/Energy_B_132_32k_bins_sum_nosum.svg" style="width: 405px !important;">
+</figure>
+</center>
