@@ -113,4 +113,3 @@ zoom: 0.95
 <figure>
     <img src="/weights_pca_0_2_11_with_path_20250427_3.svg" style="width: 455px !important;">
 </figure>
---
