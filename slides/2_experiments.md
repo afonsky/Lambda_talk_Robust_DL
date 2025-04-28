@@ -79,7 +79,7 @@ zoom: 1.2
 </v-clicks>
 
 ---
-zoom: 0.95
+zoom: 0.92
 ---
 
 # Preliminary experiments
