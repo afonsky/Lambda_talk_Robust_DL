@@ -73,14 +73,34 @@ zoom: 0.95
 
 # Energy Model vs Training Sample Size
 
-<center>
+<br>
+<div class="grid grid-cols-[2fr_2fr] gap-1">
+<div>
 <figure>
-    <img src="/Energy_A_132_32k_bins_sum_nosum.svg" style="width: 405px !important;">
+    <img src="/Energy_A_132_32k_bins_sum_nosum.svg" style="width: 455px !important;">
 </figure>
-</center>
+</div>
+<div>
+<figure>
+    <img src="/Energy_B_132_32k_bins_sum_nosum.svg" style="width: 455px !important;">
+</figure>
+</div>
+</div>
 
-<center>
+---
+
+# Position Model vs Training Sample Size
+
+<br>
+<div class="grid grid-cols-[2fr_2fr] gap-1">
+<div>
 <figure>
-    <img src="/Energy_B_132_32k_bins_sum_nosum.svg" style="width: 405px !important;">
+    <img src="/Energy_A_132_32k_bins_bar_nobar.svg" style="width: 455px !important;">
 </figure>
-</center>
+</div>
+<div>
+<figure>
+    <img src="/Energy_B_132_32k_bins_bar_nobar.svg" style="width: 455px !important;">
+</figure>
+</div>
+</div>
