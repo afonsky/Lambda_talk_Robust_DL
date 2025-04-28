@@ -5,16 +5,12 @@ zoom: 1.1
 
 # Conclusions
 
-* LLMs leverage deep learning architectures, specifically transformer-based models, enabling sophisticated natural language understanding and generation
+* We propose a procedure to measure the robustness of machine learning models
 
-* Significant improvements are driven by scaling laws, pre-training on large, diverse corpora, and fine-tuning strategies for domain-specific tasks
+* We supplement such a procedure with a meta-algorithm for robust model selection
 
-* Evaluation metrics such as perplexity, BLEU, and human judgment remain critical for benchmarking performance and guiding model development
-
-* Challenges persist in interpretability, bias mitigation, efficient inference, and ensuring robustness against adversarial inputs
-
-* Ongoing research aims to enhance alignment with human values, improve computational efficiency, and extend LLM applications across interdisciplinary domains
-
+* The two robust models for two specific problems found using this method have the best convergence and the smallest loss variability among the $2\times6912$ models considered
+	* Finding a robust model from a set of $6912$ models with different architectures and hyperparameters requires training $41567$ models and their instances, instead of training $345600$ models and their instances while considering an exhaustive search for the most robust model from the set
 ---
 layout: end
 hideInToc: true
