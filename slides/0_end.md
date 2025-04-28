@@ -95,12 +95,12 @@ zoom: 0.95
 <div class="grid grid-cols-[2fr_2fr] gap-1">
 <div>
 <figure>
-    <img src="/Energy_A_132_32k_bins_bar_nobar.svg" style="width: 455px !important;">
+    <img src="/Position_A_132_32k_bins_bar_nobar.svg" style="width: 455px !important;">
 </figure>
 </div>
 <div>
 <figure>
-    <img src="/Energy_B_132_32k_bins_bar_nobar.svg" style="width: 455px !important;">
+    <img src="/Position_B_132_32k_bins_bar_nobar.svg" style="width: 455px !important;">
 </figure>
 </div>
 </div>
