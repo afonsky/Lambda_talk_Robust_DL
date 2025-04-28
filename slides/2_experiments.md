@@ -107,6 +107,8 @@ zoom: 0.95
 </div>
 
 ---
+zoom: 0.95
+---
 
 # Model Selection Algorithm
 
