@@ -87,6 +87,10 @@ zoom: 0.95
 </div>
 </div>
 
+* Boxplots of the losses for the energy reconstruction problem for Model 1 and Model 2 as a function of the training sample size for Dataset A (top) and Dataset B (bottom)
+* Model 2 uses the sum of the energies in the cells transferred after the first convolution layer
+* 50 instances of the corresponding model are used for each box plot
+
 ---
 
 # Position Model vs Training Sample Size
@@ -105,11 +109,17 @@ zoom: 0.95
 </div>
 </div>
 
+* Boxplots of the losses for the position reconstruction problem for Model 3 and Model 4 as a function of the training sample size for Dataset A (top) and Dataset B (bottom)
+* Model 4 uses the barycenter position of the energy deposits after the first fully connected layer
+* 50 instances of the corresponding model are used for each box plot
+
 ---
 
 # Optimizer Paths for Different Initializations
 
 <br>
+<center>
 <figure>
-    <img src="/weights_pca_0_2_11_with_path_20250427_3.svg" style="width: 455px !important;">
+    <img src="/weights_pca_0_2_11_with_path_20250427_3.svg" style="width: 555px !important;">
 </figure>
+</center>
