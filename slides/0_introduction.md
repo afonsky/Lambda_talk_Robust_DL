@@ -309,7 +309,7 @@ zoom: 0.9
 </div>
 
 ---
-zoom: 1.2
+zoom: 1.1
 ---
 
 # Robustness to Transformations of Data
